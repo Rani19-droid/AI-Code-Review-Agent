@@ -7,7 +7,7 @@ An AI-powered Code Review Platform built using **Python, Streamlit, Google Gemin
 Add your deployed Render URL here:
 
 ```text
-https://your-render-url.onrender.com
+
 ```
 
 ---
@@ -184,11 +184,11 @@ streamlit run app.py
 
 ## 👨‍💻 Author
 
-**Prateek Singh**
+**rani parween**
 
 B.Tech Computer Science Engineering (AKTU)
 
-GitHub: https://github.com/icoderbug
+GitHub: https://github.com/Rani19-droid
 
 ---
 
